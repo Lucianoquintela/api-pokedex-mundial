@@ -41,7 +41,6 @@ Site criado para listar diversos Pokémon usando a [PokeAPI](https://pokeapi.co/
 </div>
 -->
 
----
 
 ## 👨‍💻 Autor
 
