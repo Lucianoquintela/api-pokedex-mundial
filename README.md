@@ -2,7 +2,7 @@
 
 Site criado para listar diversos Pokémon usando a [PokeAPI](https://pokeapi.co/), exibindo nome e id.
 
-[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/pokedex-mundial/)
+[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/api-pokedex-mundial/)
 
 ---
 
